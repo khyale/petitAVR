@@ -1,0 +1,1 @@
+This repo contains the main files of the project 'petitAVR'. It is a small circuit board designed for the microcontroller (MCU) Atmega328P, which the most important pins have been available to connect others circuits/peripherals such as sensors, communication devices, displays, etc. 
